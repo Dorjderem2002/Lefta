@@ -1,6 +1,5 @@
 import 'dart:math';
 
-import 'package:dimy/common/text.dart';
 import 'package:dimy/expense_controller.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
